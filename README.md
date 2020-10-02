@@ -15,10 +15,3 @@
 [![Meincken's github stats](https://github-readme-stats.vercel.app/api?username=meincken&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/meincken/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meincken&theme=dark&layout=compact)](https://github.com/meincken/github-readme-stats)
-
-<a href="https://github.com/meincken/meincken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meincken&hide=contribs,prs&show_icons=true&theme=dark />
-</a>
-<a href="https://github.com/meincken/meiincken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meincken&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Meincken's GitHub Stats" />
-</a>
