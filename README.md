@@ -1,1 +1,2 @@
-# Nick.Meincken
+# Nick Meincken
+## Front End Developer
