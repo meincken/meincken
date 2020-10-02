@@ -12,3 +12,6 @@
 ![](https://img.shields.io/badge/Code-PostCSS-informational?style=flat&logo=PostCSS&logoColor=white&color=2bbc8a)
 
 [![Meincken's github stats](https://github-readme-stats.vercel.app/api?username=meincken&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/meincken/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meincken)](https://github.com/meincken/github-readme-stats)
+
