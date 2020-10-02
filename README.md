@@ -19,5 +19,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meincken&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/meincken/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meincken&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meincken&repo=meincken" />
 </a>
