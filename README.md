@@ -6,8 +6,8 @@ Hi, My name is Nick Meincken. I'm a front end developer based in London. I work 
 ![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Source&nbsp;Control-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Adobe&nbsp;Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Graphics-Adobe&nbsp;Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Graphics-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/CMS-AEM-informational?style=flat&logo=Adobe&logoColor=white&color=2bbc8a)
