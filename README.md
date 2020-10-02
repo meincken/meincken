@@ -6,4 +6,5 @@
 
 ## Frameworks
 ![](https://img.shields.io/badge/Framework-Gatsby-informational?style=flat&logo=Gatsby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 
