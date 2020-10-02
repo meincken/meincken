@@ -1,6 +1,6 @@
 [![Header](meincken_header.png "Header")](https://nickmeincken.me)
 
-Hi, My name is Nick Meincken. I'm a front end developer based in London. I work with a number of different environments
+Hi, My name is Nick Meincken and I'm a front end developer based in London. I specialise in building useable styleguides for developers and designers as reference and love creating useable processes.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
