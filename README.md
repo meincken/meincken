@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/meincken/meincken/master/meincken-header.png "Header")](https://nickmeincken.me/)
+[![Header](https://raw.githubusercontent.com/meincken/meincken/meincken-header.png "Header")](https://nickmeincken.me/)
 
 # Nick Meincken 
 
